@@ -1,0 +1,2 @@
+.container{display:flex}.goodsList{display:grid;grid-template-columns:200px;grid-row-gap:10px;row-gap:10px;margin:0}.goodsList__item{line-height:40px;text-align:center;background:#ffdead;list-style:none;border-radius:5px}.remote{margin-left:30px;display:flex;flex-direction:column;justify-content:space-between}.remote__button{background:#a9a9a9;color:#f5f5f5;font-weight:bolder;border:1px solid #000;border-radius:5px;height:40px}.remote__button:hover{background:grey}
+/*# sourceMappingURL=main.ff42c3ba.chunk.css.map */
